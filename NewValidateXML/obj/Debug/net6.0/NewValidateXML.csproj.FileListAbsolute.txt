@@ -1,0 +1,15 @@
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\bin\Debug\net6.0\NewValidateXML.exe
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\bin\Debug\net6.0\NewValidateXML.deps.json
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\bin\Debug\net6.0\NewValidateXML.runtimeconfig.json
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\bin\Debug\net6.0\NewValidateXML.dll
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\bin\Debug\net6.0\NewValidateXML.pdb
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\obj\Debug\net6.0\NewValidateXML.csproj.AssemblyReference.cache
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\obj\Debug\net6.0\NewValidateXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\obj\Debug\net6.0\NewValidateXML.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\obj\Debug\net6.0\NewValidateXML.AssemblyInfo.cs
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\obj\Debug\net6.0\NewValidateXML.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\obj\Debug\net6.0\NewValidateXML.dll
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\obj\Debug\net6.0\refint\NewValidateXML.dll
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\obj\Debug\net6.0\NewValidateXML.pdb
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\obj\Debug\net6.0\NewValidateXML.genruntimeconfig.cache
+C:\Users\danii\source\repos\NewValidateXML\NewValidateXML\obj\Debug\net6.0\ref\NewValidateXML.dll
